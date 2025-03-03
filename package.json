@@ -1,0 +1,28 @@
+{
+  "name": "fakebaidu",
+  "version": "0.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "axios": "^1.7.7",
+    "element-plus": "^2.8.2",
+    "markdown-it": "^14.1.0",
+    "qrcode": "^1.5.4",
+    "vue": "^3.4.29",
+    "vue-i18n": "^9.14.1",
+    "vue-router": "^4.4.3",
+    "vuex": "^4.1.0",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/multer": "^1.4.12",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}

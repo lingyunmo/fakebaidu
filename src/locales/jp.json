@@ -1,0 +1,246 @@
+{
+  "QRCode": {
+    "linkVerification": "リンクで認証",
+    "loadingText": "lingyunmoによる認証システム",
+    "scanWarning": "WeChatを使用してQRコードをスキャンすると、成功しない場合があります。\niOSの場合、カメラでスキャンできます；\nAndroidの場合、カメラまたはブラウザでスキャンできます。\n正常にスキャンできない場合は、リンクをクリックして確認してください。",
+    "timeLeft": "有効期限: {time}秒",
+    "uuid": "ユニークID (UUID)：",
+    "verificationSuccess": "認証に成功しました！",
+    "verificationTitle": "あなたが人間であることを確認するため、QRコードをスキャンしてください"
+  },
+  "admin": {
+    "assignment1": "第一次課題ステータス",
+    "assignment2": "第二次課題ステータス",
+    "assignment3": "第三次課題ステータス",
+    "assignment4": "第四次課題ステータス",
+    "assignment5": "第五次課題ステータス",
+    "enter_colorful": "カラフル版に入る",
+    "name": "名前",
+    "not_submitted": "未提出",
+    "submitted": "提出済み",
+    "title": "ユーザー課題ステータス"
+  },
+  "projectStatus": {
+    "title": "プロジェクト提出状況",
+    "project1": "プロジェクト1",
+    "project2": "プロジェクト2"
+  },
+  "adminC": {
+    "assignment1_status": "第一次課題ステータス",
+    "assignment2_status": "第二次課題ステータス",
+    "assignment3_status": "第三次課題ステータス",
+    "assignment4_status": "第四次課題ステータス",
+    "assignment5_status": "第五次課題ステータス",
+    "colorful_title": "ユーザー課題ステータス（カラフル版）",
+    "not_submitted": "未提出",
+    "submitted": "提出済み"
+  },
+  "adminChange": {
+    "assignment1": "課題 1",
+    "assignment2": "課題 2",
+    "assignment3": "課題 3",
+    "assignment4": "課題 4",
+    "assignment5": "課題 5",
+    "back_to_admin": "管理ページに戻る",
+    "change_title": "課題の状態を変更",
+    "name": "名前",
+    "save": "保存"
+  },
+  "announcement": {
+    "clickHint": "タイトルをクリックして内容を展開/折りたたみ",
+    "contentSubmission": "提出内容：次のファイルタイプのみをアップロードしてください：<code>index.html</code>、<code>style.css</code>、<code>script.js</code>、<code>img.png</code>、<code>img.jpg</code>。課題に対応するタイプを選択し、正確に名前を記入してください。これにより、提出ミスや後続の問題を防ぐことができます。",
+    "deadline": "締め切りまで",
+    "fileSubmission": "ファイル提出：提出時にファイルを圧縮する必要はありません。サーバーは事前に設定されており、自動的に課題タイプをマッチングし、提出がスムーズに行えるようになっています。",
+    "statusCheck": "ステータス確認：課題を提出した後、「提出ステータス確認」モジュールにて名前を入力し、課題が正常に提出されたかどうかを確認してください。何か問題や疑問がある場合は、「掲示板」モジュールに投稿してください。できるだけ早くサポートいたします。",
+    "title": "お知らせ"
+  },
+  "announcementA": {
+    "part1_label": "お知らせ内容 (part1) を入力",
+    "part2_label": "課題内容 (part2) を入力",
+    "time_label": "時間を入力",
+    "title": "お知らせ管理",
+    "update_button": "お知らせを更新"
+  },
+  "chat": {
+    "chatTitle": "チャットルーム",
+    "messagePlaceholder": "メッセージを入力...",
+    "nextPage": "次のページ",
+    "nicknameButton": "確定",
+    "nicknamePlaceholder": "ニックネームを入力",
+    "nicknameReminder": "チャットを開始するためにニックネームを入力してください。",
+    "page": "ページ",
+    "prevPage": "前のページ",
+    "sendButton": "送信"
+  },
+  "check": {
+    "assignment": "課題",
+    "checkButton": "課題提出ステータスを確認",
+    "nameLabel": "名前:",
+    "submissionStatusTitle": "課題提出ステータス:",
+    "title": "提出ステータス確認",
+    "usernamePlaceholder": "ユーザー名を入力してください..."
+  },
+  "contact": {
+    "contribute": "貢献する",
+    "contributeDescription": "貢献者になりたいですか？私のプロジェクトを確認して、貢献をお願いします。",
+    "description": "ご質問や提案がありましたら、以下の方法でご連絡ください：",
+    "feedback": "フィードバック",
+    "feedbackDescription": "フィードバックや提案をお待ちしております。",
+    "github": "GitHub",
+    "sendEmail": "メールを送信",
+    "title": "連絡先",
+    "viewProject": "Lanthanumプロジェクトを見る",
+    "visitGithub": "GitHubを訪れる"
+  },
+  "copyright": "凌云陌. 全著作権所有.",
+  "error": {
+    "back_to_login": "ログインに戻る",
+    "ban": "不適切な行動は永久的な禁止を招きます！",
+    "detected": "あなたの行動が検出されました！",
+    "exit": "⚠️ すぐに退出し、あなたの安全を確保してください！ ⚠️",
+    "ip_locked": "ご注意ください、あなたのIPアドレスはロックされました！",
+    "recorded": "システムはすべてのステップを記録しました！",
+    "title": "警告！",
+    "urgent": "🚨 すぐに停止してください、さもなければ結果に責任を持ちません！ 🚨"
+  },
+  "forum": {
+    "author": "投稿者",
+    "goBack": "前のページに戻る",
+    "pageTitle": "掲示板",
+    "replies": "返信",
+    "replyPlaceholder": "返信を入力してください",
+    "submitReply": "返信を送信",
+    "viewDetails": "詳細を見る"
+  },
+  "greeting": "こんにちは",
+  "help": "ヘルプセンター",
+  "login": {
+    "encrypting": "暗号化中···",
+    "password": "パスワード",
+    "submit": "ログイン",
+    "title": "ユーザーログイン",
+    "username": "ユーザー名",
+    "verifying": "認証中···"
+  },
+  "lottery": {
+    "drawButton": "ホイールを回す",
+    "result": "あなたが獲得したもの：{{prize}}",
+    "resultTitle": "おめでとうございます！",
+    "title": "宝くじ抽選"
+  },
+  "maintenance": {
+    "accessTitle": "メンテナンスアクセス",
+    "currentStatus": "現在のステータス: メンテナンス中",
+    "enterPassword": "メンテナンスパスワードを入力してください:",
+    "message": "現在、システムメンテナンスを実施中です。後ほどお試しください。",
+    "passwordPlaceholder": "パスワードを入力してください",
+    "title": "メンテナンス中"
+  },
+  "menu": {
+    "admin": "管理者",
+    "adminChange": "管理者2",
+    "adminProject": "プロジェクトバックエンド",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT 0.3(AI)",
+    "chatWithMe": "チャット",
+    "contact": "連絡",
+    "forum": "掲示板",
+    "help": "ヘルプ",
+    "home": "ホーム",
+    "loggedIn": "ログイン済み",
+    "login": "ログイン",
+    "lottery": "宝くじ抽選",
+    "maintenance": "メンテナンス",
+    "news": "ニュース",
+    "submitAssignment": "課題提出",
+    "submitProject": "プロジェクト提出"
+  },
+  "news": {
+    "goBack": "前のページに戻る",
+    "pageTitle": "ニュース",
+    "viewDetails": "詳細を見る"
+  },
+  "post": {
+    "author": "著者",
+    "content": "内容",
+    "contentRequired": "内容を入力してください",
+    "submitPost": "投稿を送信",
+    "title": "タイトル",
+    "titleRequired": "タイトルを入力してください"
+  },
+  "project": {
+    "notice": {
+      "announcement": "実習プロジェクトの練習要件：<br/>学生は合計2回のプロジェクトインターンシップを完了する必要があります。<br/>このプロジェクトインターンシップでは、クラスのメンバーが5つのグループに分かれ、各グループが静的ページプロジェクトの練習を完了します。<br/>プロジェクトの開発内容とPPTはグループ内で分担し、各自がインターンシップレポートを提出する必要があります。<br/>各学生は以下の材料を提供する必要があります：<br/>01. プロジェクトデモPPT（グループ内で共有可能）<br/>02. プロジェクトコード（グループ内で共有可能）<br/>03. インターンシップレポート（個別に提出する必要があります）<br/>すべての学生は、10月25日までに2回のプロジェクトの成果を提出する必要があります。",
+      "deadline": "プロジェクトの締切",
+      "title": "プロジェクトのお知らせ"
+    },
+    "upload": {
+      "title": "プロジェクトのアップロード",
+      "name": "名前",
+      "namePlaceholder": "名前を入力してください",
+      "projectType": "プロジェクトタイプ",
+      "selectProject": "プロジェクトタイプを選択してください",
+      "project1": "プロジェクト1",
+      "project2": "プロジェクト2",
+      "uploadFiles": "ファイルをアップロード（ZIP、RAR、7Z形式のみ）",
+      "filePreview": "ファイルのプレビュー",
+      "submit": "提出",
+      "uploading": "アップロード中..."
+    }
+  },
+  "search": {
+    "buttonText": "検索",
+    "placeholder": "検索内容を入力してください"
+  },
+  "submission": {
+    "assignmentLabel": "課題を選択:",
+    "assignmentPlaceholder": "課題タイプを選択してください",
+    "fileLabel": "ファイルを選択:",
+    "filePreview": "ファイルプレビュー:",
+    "loadingMessage": "名前を確認中です。お待ちください...",
+    "nameLabel": "名前（本名）:",
+    "namePlaceholder": "名前を入力してください...",
+    "pageTitle": "課題提出",
+    "submitButton": "提出"
+  },
+  "submissionNS": {
+    "notOpenMessage": "現在、提出可能な課題はありません。システム通知を注意してご確認ください。",
+    "notOpenTitle": "提出はまだ開始されていません",
+    "processingMessage": "お待ちください、課題を処理中です..."
+  },
+  "toggle": {
+    "assignment_status": "課題の状態を切り替え",
+    "current_assignment_id_placeholder": "現在の課題番号を入力",
+    "maintenance": "メンテナンスの状態",
+    "maintenance_off": "メンテナンスを終了",
+    "maintenance_on": "メンテナンスを開始",
+    "project": "プロジェクトの提出",
+    "project_closed": "プロジェクト提出の終了",
+    "project_open": "プロジェクト提出の開始",
+    "qrcode": "QRコード認証",
+    "qrcode_closed": "QRコード認証無効",
+    "qrcode_open": "QRコード認証有効",
+    "submission": "提出の状態",
+    "submission_closed": "提出の終了",
+    "submission_open": "提出の開始",
+    "title": "状態の切り替え",
+    "update_assignment_id": "課題番号を更新"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "タスクがアップロードされました",
+    "title": "アップロード完了状況"
+  },
+  "notConnected": {
+    "title": "バックエンドサービスが接続されていません",
+    "message": "接続を試みています",
+    "retry": "しばらくお待ちください"
+  },
+  "projectCheck": {
+    "title": "プロジェクトチェック",
+    "nameLabel": "ユーザー名",
+    "usernamePlaceholder": "ユーザー名を入力してください",
+    "checkButton": "プロジェクトを確認",
+    "submissionStatusTitle": "プロジェクト提出の状態",
+    "assignment": "プロジェクト"
+  }
+}

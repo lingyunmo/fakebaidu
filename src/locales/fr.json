@@ -1,0 +1,246 @@
+{
+  "QRCode": {
+    "linkVerification": "Vérification par lien",
+    "loadingText": "Système de vérification par lingyunmo",
+    "scanWarning": "L'utilisation de WeChat pour scanner le code QR peut ne pas fonctionner.\nPour iOS, vous pouvez utiliser l'appareil photo pour scanner ;\nPour Android, vous pouvez utiliser l'appareil photo ou le navigateur.\nSi vous ne parvenez pas à scanner le code, vous pouvez également cliquer sur le lien pour vérifier.",
+    "timeLeft": "Temps restant : {time} secondes",
+    "uuid": "Identifiant unique (UUID) :",
+    "verificationSuccess": "Vérification réussie !",
+    "verificationTitle": "Pour vérifier que vous êtes humain, veuillez scanner le code QR"
+  },
+  "admin": {
+    "assignment1": "Statut du premier devoir",
+    "assignment2": "Statut du deuxième devoir",
+    "assignment3": "Statut du troisième devoir",
+    "assignment4": "Statut du quatrième devoir",
+    "assignment5": "Statut du cinquième devoir",
+    "enter_colorful": "Entrer en mode coloré",
+    "name": "Nom",
+    "not_submitted": "Non soumis",
+    "submitted": "Soumis",
+    "title": "Statut des devoirs des utilisateurs"
+  },
+  "projectStatus": {
+    "title": "État de soumission du projet",
+    "project1": "Projet 1",
+    "project2": "Projet 2"
+  },
+  "adminC": {
+    "assignment1_status": "Statut du premier devoir",
+    "assignment2_status": "Statut du deuxième devoir",
+    "assignment3_status": "Statut du troisième devoir",
+    "assignment4_status": "Statut du quatrième devoir",
+    "assignment5_status": "Statut du cinquième devoir",
+    "colorful_title": "Statut des devoirs des utilisateurs (version colorée)",
+    "not_submitted": "Non soumis",
+    "submitted": "Soumis"
+  },
+  "adminChange": {
+    "assignment1": "Devoir 1",
+    "assignment2": "Devoir 2",
+    "assignment3": "Devoir 3",
+    "assignment4": "Devoir 4",
+    "assignment5": "Devoir 5",
+    "back_to_admin": "Retour à la page d'administration",
+    "change_title": "Modifier l'état des devoirs",
+    "name": "Nom",
+    "save": "Enregistrer"
+  },
+  "announcement": {
+    "clickHint": "Cliquez sur le titre pour développer/réduire le contenu",
+    "contentSubmission": "Soumission de contenu : Assurez-vous de ne télécharger que les types de fichiers suivants : <code>index.html</code>, <code>style.css</code>, <code>script.js</code>, <code>img.png</code>, <code>img.jpg</code>. Veuillez sélectionner le type de devoir correspondant et remplir correctement votre nom. Cela aidera à éviter des erreurs de soumission et des problèmes ultérieurs.",
+    "deadline": "Date limite",
+    "fileSubmission": "Soumission de fichiers : Veuillez noter qu'il n'est pas nécessaire de compresser les fichiers lors de la soumission. Le serveur est configuré pour correspondre automatiquement au type de devoir afin de garantir que votre soumission soit traitée correctement.",
+    "statusCheck": "Vérification de l'état : Après la soumission du devoir, veuillez vous rendre dans le module « Vérification de l'état de soumission » et entrer votre nom pour vérifier si le devoir a été soumis avec succès. Si vous rencontrez des problèmes ou avez des questions, veuillez poster sur le forum et nous vous aiderons dès que possible.",
+    "title": "Annonce"
+  },
+  "announcementA": {
+    "part1_label": "Entrez le contenu de l'annonce (partie 1)",
+    "part2_label": "Entrez le contenu du devoir (partie 2)",
+    "time_label": "Entrez l'heure",
+    "title": "Gestion des annonces",
+    "update_button": "Mettre à jour l'annonce"
+  },
+  "chat": {
+    "chatTitle": "Salle de Discussion",
+    "messagePlaceholder": "Tapez votre message...",
+    "nextPage": "Page Suivante",
+    "nicknameButton": "Confirmer",
+    "nicknamePlaceholder": "Entrez votre surnom",
+    "nicknameReminder": "Veuillez entrer un pseudonyme pour commencer la discussion.",
+    "page": "Page",
+    "prevPage": "Page Précédente",
+    "sendButton": "Envoyer"
+  },
+  "check": {
+    "assignment": "Devoir",
+    "checkButton": "Vérifier l'état de soumission du devoir",
+    "nameLabel": "Nom :",
+    "submissionStatusTitle": "État de soumission du devoir :",
+    "title": "Vérification de l'état de soumission",
+    "usernamePlaceholder": "Entrez le nom d'utilisateur..."
+  },
+  "contact": {
+    "contribute": "Contribuer",
+    "contributeDescription": "Voulez-vous devenir contributeur ? Consultez mes projets et soumettez vos contributions.",
+    "description": "Si vous avez des questions ou des suggestions, veuillez me contacter par les moyens suivants :",
+    "feedback": "Retour d'information",
+    "feedbackDescription": "Nous accueillons vos commentaires et suggestions.",
+    "github": "GitHub",
+    "sendEmail": "Envoyer un e-mail",
+    "title": "Contactez-moi",
+    "viewProject": "Voir le projet Lanthanum",
+    "visitGithub": "Visitez mon GitHub"
+  },
+  "copyright": "凌云陌. Tous droits réservés.",
+  "error": {
+    "back_to_login": "Retourner à la connexion",
+    "ban": "Un comportement inapproprié entraînera une interdiction permanente !",
+    "detected": "Votre comportement a été détecté !",
+    "exit": "⚠️ Quittez immédiatement, pour votre sécurité ! ⚠️",
+    "ip_locked": "Veuillez noter que votre adresse IP a été verrouillée !",
+    "recorded": "Chaque étape de votre activité a été enregistrée par le système !",
+    "title": "Avertissement !",
+    "urgent": "🚨 Arrêtez immédiatement, ou subissez les conséquences ! 🚨"
+  },
+  "forum": {
+    "author": "Auteur",
+    "goBack": "Retourner à la page précédente",
+    "pageTitle": "Forum",
+    "replies": "Réponses",
+    "replyPlaceholder": "Entrez votre réponse",
+    "submitReply": "Soumettre la réponse",
+    "viewDetails": "Voir les détails"
+  },
+  "greeting": "Bonjour",
+  "help": "Centre d'aide",
+  "login": {
+    "encrypting": "Chiffrement en cours...",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "title": "Connexion utilisateur",
+    "username": "Nom d'utilisateur",
+    "verifying": "Vérification de l'identité en cours..."
+  },
+  "lottery": {
+    "drawButton": "Faites Tourner la Roue",
+    "result": "Vous avez gagné : {{prize}}",
+    "resultTitle": "Félicitations !",
+    "title": "Tirage au Sort"
+  },
+  "maintenance": {
+    "accessTitle": "Accès en maintenance",
+    "currentStatus": "Statut actuel : En maintenance",
+    "enterPassword": "Entrez le mot de passe de maintenance :",
+    "message": "Nous procédons à la maintenance du système. Veuillez réessayer plus tard.",
+    "passwordPlaceholder": "Entrez le mot de passe",
+    "title": "En maintenance"
+  },
+  "menu": {
+    "admin": "Administration",
+    "adminChange": "Administration2",
+    "adminProject": "Backend de projet",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT 0.3 (AI)",
+    "chatWithMe": "chat",
+    "contact": "Contact",
+    "forum": "Forum",
+    "help": "Aide",
+    "home": "Accueil",
+    "loggedIn": "Connecté",
+    "login": "Connexion",
+    "lottery": "Tirage au Sort",
+    "maintenance": "Maintenance",
+    "news": "Actualités",
+    "submitAssignment": "Soumission de devoir",
+    "submitProject": "Soumission de projet"
+  },
+  "news": {
+    "goBack": "Retourner à la page précédente",
+    "pageTitle": "Actualités",
+    "viewDetails": "Voir les détails"
+  },
+  "post": {
+    "author": "Auteur",
+    "content": "Contenu",
+    "contentRequired": "Le contenu ne peut pas être vide",
+    "submitPost": "Publier le message",
+    "title": "Titre",
+    "titleRequired": "Le titre ne peut pas être vide"
+  },
+  "project": {
+    "notice": {
+      "announcement": "Exigences pour le projet de formation :<br/>Les étudiants doivent réaliser un total de 2 stages de projet.<br/>Ce stage de projet divisera les membres de la classe en 5 groupes, chacun devant réaliser le projet de page statique.<br/>Le contenu du développement du projet et le PPT seront répartis entre les membres du groupe, et chaque personne doit fournir un rapport de stage.<br/>Chaque étudiant doit fournir les matériaux suivants :<br/>01. PPT de démonstration du projet (peut être partagé au sein du groupe)<br/>02. Code du projet (peut être partagé au sein du groupe)<br/>03. Rapport de stage (doit être soumis individuellement)<br/>Tous les étudiants doivent soumettre les résultats de 2 projets d'ici le 25 octobre.",
+      "deadline": "Date limite du projet",
+      "title": "Annonce de Projet"
+    },
+    "upload": {
+      "title": "Téléchargement de Projet",
+      "name": "Nom",
+      "namePlaceholder": "Veuillez entrer votre nom",
+      "projectType": "Type de Projet",
+      "selectProject": "Veuillez sélectionner un type de projet",
+      "project1": "Projet 1",
+      "project2": "Projet 2",
+      "uploadFiles": "Télécharger des Fichiers (uniquement des formats ZIP, RAR, 7Z)",
+      "filePreview": "Aperçu des Fichiers",
+      "submit": "Soumettre",
+      "uploading": "Téléchargement en cours..."
+    }
+  },
+  "search": {
+    "buttonText": "Rechercher",
+    "placeholder": "Entrez le contenu à rechercher"
+  },
+  "submission": {
+    "assignmentLabel": "Choisissez le devoir :",
+    "assignmentPlaceholder": "Choisissez le type de devoir",
+    "fileLabel": "Choisissez le fichier :",
+    "filePreview": "Aperçu du fichier :",
+    "loadingMessage": "Vérification du nom, veuillez patienter...",
+    "nameLabel": "Nom (nom réel) :",
+    "namePlaceholder": "Entrez votre nom...",
+    "pageTitle": "Soumission de devoir",
+    "submitButton": "Soumettre"
+  },
+  "submissionNS": {
+    "notOpenMessage": "Aucun devoir disponible pour la soumission pour le moment. Veuillez surveiller les notifications système pour les dernières informations.",
+    "notOpenTitle": "Soumission non ouverte",
+    "processingMessage": "Veuillez patienter, votre devoir est en cours de traitement..."
+  },
+  "toggle": {
+    "assignment_status": "Changement d'état du devoir",
+    "current_assignment_id_placeholder": "Entrez le numéro du devoir actuel",
+    "maintenance": "État de maintenance",
+    "maintenance_off": "Maintenance désactivée",
+    "maintenance_on": "Maintenance activée",
+    "project": "Soumission de Projet",
+    "project_closed": "Soumission de projet fermée",
+    "project_open": "Soumission de projet ouverte",
+    "qrcode": "Vérification QR Code",
+    "qrcode_closed": "Vérification QR Code désactivée",
+    "qrcode_open": "Vérification QR Code activée",
+    "submission": "État de soumission",
+    "submission_closed": "Soumission fermée",
+    "submission_open": "Soumission ouverte",
+    "title": "Changement d'état",
+    "update_assignment_id": "Mettre à jour le numéro du devoir"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "Tâches téléchargées",
+    "title": "État d'avancement de la soumission"
+  },
+  "notConnected": {
+    "title": "Service backend non connecté",
+    "message": "Tentative de connexion",
+    "retry": "Veuillez patienter"
+  },
+  "projectCheck": {
+    "title": "Vérification de Projet",
+    "nameLabel": "Nom d'Utilisateur",
+    "usernamePlaceholder": "Veuillez entrer votre nom d'utilisateur",
+    "checkButton": "Vérifier le Projet",
+    "submissionStatusTitle": "État de la Soumission du Projet",
+    "assignment": "Projet"
+  }
+}

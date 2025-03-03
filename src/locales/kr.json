@@ -1,0 +1,246 @@
+{
+  "QRCode": {
+    "linkVerification": "링크 인증",
+    "loadingText": "lingyunmo의 인증 시스템",
+    "scanWarning": "위챗으로 QR 코드를 스캔하는 것은 성공하지 않을 수 있습니다.\niOS의 경우 카메라로 스캔할 수 있습니다;\n안드로이드의 경우 카메라나 브라우저로 스캔할 수 있습니다.\n정상적으로 스캔이 되지 않는 경우 링크를 클릭하여 인증할 수 있습니다.",
+    "timeLeft": "유효 기간: {time}초",
+    "uuid": "고유 ID (UUID):",
+    "verificationSuccess": "인증 성공!",
+    "verificationTitle": "본인 확인을 위해 QR 코드를 스캔해 주세요"
+  },
+  "admin": {
+    "assignment1": "첫 번째 과제 상태",
+    "assignment2": "두 번째 과제 상태",
+    "assignment3": "세 번째 과제 상태",
+    "assignment4": "네 번째 과제 상태",
+    "assignment5": "다섯 번째 과제 상태",
+    "enter_colorful": "다채로운 버전으로 이동",
+    "name": "이름",
+    "not_submitted": "제출되지 않음",
+    "submitted": "제출됨",
+    "title": "사용자 과제 상태"
+  },
+  "projectStatus": {
+    "title": "프로젝트 제출 상태",
+    "project1": "프로젝트 1",
+    "project2": "프로젝트 2"
+  },
+  "adminC": {
+    "assignment1_status": "첫 번째 과제 상태",
+    "assignment2_status": "두 번째 과제 상태",
+    "assignment3_status": "세 번째 과제 상태",
+    "assignment4_status": "네 번째 과제 상태",
+    "assignment5_status": "다섯 번째 과제 상태",
+    "colorful_title": "사용자 과제 상태 (다채로운 버전)",
+    "not_submitted": "제출되지 않음",
+    "submitted": "제출됨"
+  },
+  "adminChange": {
+    "assignment1": "과제 1",
+    "assignment2": "과제 2",
+    "assignment3": "과제 3",
+    "assignment4": "과제 4",
+    "assignment5": "과제 5",
+    "back_to_admin": "관리 페이지로 돌아가기",
+    "change_title": "과제 상태 변경",
+    "name": "이름",
+    "save": "저장"
+  },
+  "announcement": {
+    "clickHint": "내용을 펼치거나 접으려면 제목을 클릭하세요",
+    "contentSubmission": "제출 내용: <code>index.html</code>, <code>style.css</code>, <code>script.js</code>, <code>img.png</code>, <code>img.jpg</code> 파일 형식만 업로드하세요. 과제 유형과 일치하는 것을 선택하고 이름을 정확히 입력하십시오. 이렇게 하면 제출 오류와 후속 문제를 방지할 수 있습니다.",
+    "deadline": "마감 시간까지",
+    "fileSubmission": "파일 제출: 압축 파일을 제출할 필요가 없습니다. 서버가 사전에 구성되어 있어 과제 유형을 자동으로 매칭합니다. 제출이 원활히 처리되도록 하세요.",
+    "statusCheck": "상태 확인: 과제를 제출한 후, '제출 상태 확인' 모듈에서 이름을 입력하여 과제가 성공적으로 제출되었는지 확인하세요. 문제가 있거나 질문이 있으면 '포럼' 모듈에 게시하여 도움을 받을 수 있습니다.",
+    "title": "공지"
+  },
+  "announcementA": {
+    "part1_label": "공지 내용 입력 (part1)",
+    "part2_label": "과제 내용 입력 (part2)",
+    "time_label": "시간 입력",
+    "title": "공지 관리",
+    "update_button": "공지 업데이트"
+  },
+  "chat": {
+    "chatTitle": "채팅방",
+    "messagePlaceholder": "메시지를 입력...",
+    "nextPage": "다음 페이지",
+    "nicknameButton": "확인",
+    "nicknamePlaceholder": "닉네임 입력",
+    "nicknameReminder": "채팅을 시작하려면 닉네임을 입력하세요.",
+    "page": "페이지",
+    "prevPage": "이전 페이지",
+    "sendButton": "전송"
+  },
+  "check": {
+    "assignment": "과제",
+    "checkButton": "과제 제출 상태 확인",
+    "nameLabel": "이름:",
+    "submissionStatusTitle": "과제 제출 상태:",
+    "title": "제출 상태 확인",
+    "usernamePlaceholder": "사용자 이름을 입력하세요..."
+  },
+  "contact": {
+    "contribute": "기여하기",
+    "contributeDescription": "기여자가 되고 싶으세요? 내 프로젝트를 확인하고 기여해 주세요.",
+    "description": "질문이나 제안이 있으시면 아래 방법으로 연락 주세요:",
+    "feedback": "피드백",
+    "feedbackDescription": "피드백과 제안을 환영합니다.",
+    "github": "GitHub",
+    "sendEmail": "이메일 보내기",
+    "title": "연락처",
+    "viewProject": "Lanthanum 프로젝트 보기",
+    "visitGithub": "내 GitHub 방문"
+  },
+  "copyright": "凌云陌. 모든 권리 보유.",
+  "error": {
+    "back_to_login": "로그인 화면으로 돌아가기",
+    "ban": "부적절한 행동은 영구 차단을 초래할 것입니다!",
+    "detected": "당신의 행동이 감지되었습니다!",
+    "exit": "⚠️ 즉시 나가서 안전을 확보하세요! ⚠️",
+    "ip_locked": "당신의 IP 주소가 잠겼습니다!",
+    "recorded": "시스템이 당신의 모든 행동을 기록했습니다!",
+    "title": "경고!",
+    "urgent": "🚨 지금 멈추지 않으면 결과를 감수해야 합니다! 🚨"
+  },
+  "forum": {
+    "author": "작성자",
+    "goBack": "뒤로 가기",
+    "pageTitle": "포럼",
+    "replies": "답글",
+    "replyPlaceholder": "답글을 입력하세요",
+    "submitReply": "답글 제출",
+    "viewDetails": "자세히 보기"
+  },
+  "greeting": "안녕하세요",
+  "help": "도움말",
+  "login": {
+    "encrypting": "암호화 중...",
+    "password": "비밀번호",
+    "submit": "로그인",
+    "title": "사용자 로그인",
+    "username": "사용자 이름",
+    "verifying": "신원 확인 중..."
+  },
+  "lottery": {
+    "drawButton": "룰렛 돌리기",
+    "result": "당신이 당첨된 것: {{prize}}",
+    "resultTitle": "축하합니다!",
+    "title": "복권 추첨"
+  },
+  "maintenance": {
+    "accessTitle": "유지 보수 접근",
+    "currentStatus": "현재 상태: 유지 보수 중",
+    "enterPassword": "유지 보수 암호를 입력하세요:",
+    "message": "시스템 유지 보수 중입니다. 나중에 다시 시도하세요.",
+    "passwordPlaceholder": "암호를 입력하세요",
+    "title": "유지 보수 중"
+  },
+  "menu": {
+    "admin": "관리자",
+    "adminChange": "관리자2",
+    "adminProject": "프로젝트 백엔드",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT 0.3(AI)",
+    "chatWithMe": "채팅",
+    "contact": "연락처",
+    "forum": "포럼",
+    "help": "도움말",
+    "home": "홈",
+    "loggedIn": "로그인됨",
+    "login": "로그인",
+    "lottery": "복권 추첨",
+    "maintenance": "유지 보수",
+    "news": "뉴스",
+    "submitAssignment": "과제 제출",
+    "submitProject": "프로젝트 제출"
+  },
+  "news": {
+    "goBack": "뒤로 가기",
+    "pageTitle": "뉴스",
+    "viewDetails": "자세히 보기"
+  },
+  "post": {
+    "author": "작성자",
+    "content": "내용",
+    "contentRequired": "내용을 입력하세요",
+    "submitPost": "게시물 작성",
+    "title": "제목",
+    "titleRequired": "제목을 입력하세요"
+  },
+  "project": {
+    "notice": {
+      "announcement": "실습 프로젝트 연습 요구 사항:<br/>학생들은 총 2회의 프로젝트 인턴십을 완료해야 합니다.<br/>이번 프로젝트 인턴십에서는 반 내 구성원들이 5개의 그룹으로 나뉘어, 각 그룹이 정적 페이지 프로젝트 연습을 완료합니다.<br/>프로젝트 개발 내용과 PPT는 그룹원들 간에 분담하여, 각자 실습 보고서를 제출해야 합니다.<br/>각 학생은 다음 자료를 제공해야 합니다:<br/>01. 프로젝트 시연 PPT(그룹 내에서 공유 가능)<br/>02. 프로젝트 코드(그룹 내에서 공유 가능)<br/>03. 실습 보고서(개별 제출 필요)<br/>모든 학생은 10월 25일까지 2회의 프로젝트 성과를 제출해야 합니다.",
+      "deadline": "프로젝트 마감일",
+      "title": "프로젝트 공지"
+    },
+    "upload": {
+      "title": "프로젝트 업로드",
+      "name": "이름",
+      "namePlaceholder": "이름을 입력하세요",
+      "projectType": "프로젝트 유형",
+      "selectProject": "프로젝트 유형을 선택하세요",
+      "project1": "프로젝트 1",
+      "project2": "프로젝트 2",
+      "uploadFiles": "파일 업로드(단지 ZIP, RAR, 7Z 형식)",
+      "filePreview": "파일 미리보기",
+      "submit": "제출",
+      "uploading": "업로드 중..."
+    }
+  },
+  "search": {
+    "buttonText": "검색",
+    "placeholder": "검색어를 입력하세요"
+  },
+  "submission": {
+    "assignmentLabel": "과제를 선택하세요:",
+    "assignmentPlaceholder": "과제 유형을 선택하세요",
+    "fileLabel": "파일을 선택하세요:",
+    "filePreview": "파일 미리보기:",
+    "loadingMessage": "이름을 확인하는 중입니다. 잠시만 기다려 주세요...",
+    "nameLabel": "이름 (실명):",
+    "namePlaceholder": "이름을 입력하세요...",
+    "pageTitle": "과제 제출",
+    "submitButton": "제출"
+  },
+  "submissionNS": {
+    "notOpenMessage": "현재 제출 가능한 과제가 없습니다. 최신 정보를 받으려면 시스템 알림을 확인하세요.",
+    "notOpenTitle": "제출이 시작되지 않았습니다",
+    "processingMessage": "과제가 처리되는 중입니다. 잠시만 기다려 주세요..."
+  },
+  "toggle": {
+    "assignment_status": "과제 상태 전환",
+    "current_assignment_id_placeholder": "현재 과제 번호 입력",
+    "maintenance": "유지 보수 상태",
+    "maintenance_off": "유지 보수 상태 꺼짐",
+    "maintenance_on": "유지 보수 상태 켜짐",
+    "project": "프로젝트 제출",
+    "project_closed": "프로젝트 제출 종료",
+    "project_open": "프로젝트 제출 시작",
+    "qrcode": "QR 코드 검증",
+    "qrcode_closed": "QR 코드 검증 끄기",
+    "qrcode_open": "QR 코드 검증 켜기",
+    "submission": "제출 상태",
+    "submission_closed": "제출 상태 닫힘",
+    "submission_open": "제출 상태 열림",
+    "title": "상태 전환",
+    "update_assignment_id": "과제 번호 업데이트"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "업로드된 작업",
+    "title": "업로드 상태 완료"
+  },
+  "notConnected": {
+    "title": "백엔드 서비스 연결 실패",
+    "message": "연결을 시도하고 있습니다",
+    "retry": "잠시 기다려 주십시오"
+  },
+  "projectCheck": {
+    "title": "프로젝트 검사",
+    "nameLabel": "사용자 이름",
+    "usernamePlaceholder": "사용자 이름을 입력하십시오",
+    "checkButton": "프로젝트 확인",
+    "submissionStatusTitle": "프로젝트 제출 상태",
+    "assignment": "프로젝트"
+  }
+}

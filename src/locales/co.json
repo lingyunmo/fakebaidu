@@ -1,0 +1,246 @@
+{
+  "QRCode": {
+    "linkVerification": "Authenticate via link",
+    "loadingText": "Authentication mechanism by lingyunmo",
+    "scanWarning": "Utilizing WeChat to scan the QR code may prove inefficacious.\nFor iOS, one may employ the camera to facilitate scanning;\nFor Android, either the camera or browser can be utilized.\nShould you encounter difficulties with scanning, you may click the link to authenticate.",
+    "timeLeft": "Validity period: {time} seconds",
+    "uuid": "Unique Identifier (UUID):",
+    "verificationSuccess": "Authentication successful!",
+    "verificationTitle": "To corroborate your identity, kindly authenticate by scanning the QR code"
+  },
+  "admin": {
+    "assignment1": "Status of First Assignment",
+    "assignment2": "Status of Second Assignment",
+    "assignment3": "Status of Third Assignment",
+    "assignment4": "Status of Fourth Assignment",
+    "assignment5": "Status of Fifth Assignment",
+    "enter_colorful": "Access Colorful Variant",
+    "name": "Denomination",
+    "not_submitted": "Yet To Be Dispatched",
+    "submitted": "Dispatched",
+    "title": "Assignment Status of Users"
+  },
+  "projectStatus": {
+    "title": "Project Submission Status",
+    "project1": "Project 1",
+    "project2": "Project 2"
+  },
+  "adminC": {
+    "assignment1_status": "Status of First Assignment",
+    "assignment2_status": "Status of Second Assignment",
+    "assignment3_status": "Status of Third Assignment",
+    "assignment4_status": "Status of Fourth Assignment",
+    "assignment5_status": "Status of Fifth Assignment",
+    "colorful_title": "Assignment Status of Users (Colorful Variant)",
+    "not_submitted": "Yet To Be Dispatched",
+    "submitted": "Dispatched"
+  },
+  "adminChange": {
+    "assignment1": "Scholarly Endeavor 1",
+    "assignment2": "Scholarly Endeavor 2",
+    "assignment3": "Scholarly Endeavor 3",
+    "assignment4": "Scholarly Endeavor 4",
+    "assignment5": "Scholarly Endeavor 5",
+    "back_to_admin": "Return to Administrative Interface",
+    "change_title": "Amend Assignment Status",
+    "name": "Identifier",
+    "save": "Preserve"
+  },
+  "announcement": {
+    "clickHint": "Depress the heading to dilate/collapse contents",
+    "contentSubmission": "Content Submission: Kindly ensure that you confine your uploads exclusively to the following file types: <code>index.html</code>, <code>style.css</code>, <code>script.js</code>, <code>img.png</code>, <code>img.jpg</code>. Please select the appropriate assignment classification and furnish your name with precision to forestall submission discrepancies and potential subsequent inconveniences.",
+    "deadline": "Temporal interval remaining until culmination",
+    "fileSubmission": "Document Submission: Please be cognizant that file compression is superfluous for submission. The server has been meticulously configured to execute automatic assignment-type matching to guarantee the seamless processing of your submission.",
+    "statusCheck": "Status Verification: Post submission, navigate to the 'Submission Status Check' module and input your name to ascertain the success of your assignment submission. Should any complications or queries arise, kindly post within the 'Forum' module, and we shall provide assistance at the earliest conceivable juncture.",
+    "title": "Proclamation"
+  },
+  "announcementA": {
+    "part1_label": "Input Proclamation Content (Segment 1)",
+    "part2_label": "Input Assignment Content (Segment 2)",
+    "time_label": "Input Temporal Details",
+    "title": "Proclamation Administration",
+    "update_button": "Revise Proclamation"
+  },
+  "chat": {
+    "chatTitle": "Communique Chamber",
+    "messagePlaceholder": "Articulate your missive...",
+    "nextPage": "Subsequent Page",
+    "nicknameButton": "Affirm",
+    "nicknamePlaceholder": "Input your chosen appellation",
+    "nicknameReminder": "Kindly furnish a pseudonym to commence dialogue.",
+    "page": "Page",
+    "prevPage": "Antecedent Page",
+    "sendButton": "Transmit"
+  },
+  "check": {
+    "assignment": "Assignment",
+    "checkButton": "Examine Submission Status",
+    "nameLabel": "Denomination:",
+    "submissionStatusTitle": "Submission Status:",
+    "title": "Ascertain Submission Status",
+    "usernamePlaceholder": "Inscribe your denomination..."
+  },
+  "contact": {
+    "contribute": "Contribute",
+    "contributeDescription": "Wish to participate as a collaborator? Peruse my projects and submit your contributions.",
+    "description": "Should any inquiries or recommendations arise, feel free to engage through the subsequent modalities:",
+    "feedback": "Observations",
+    "feedbackDescription": "We are receptive to your constructive feedback and propositions.",
+    "github": "GitHub",
+    "sendEmail": "Transmit Electronic Correspondence",
+    "title": "Correspondence",
+    "viewProject": "Inspect Lanthanum Project",
+    "visitGithub": "Access my GitHub"
+  },
+  "copyright": "Lingyunmo. All entitlements reserved.",
+  "error": {
+    "back_to_login": "Return to Authentication",
+    "ban": "Malfeasance will culminate in irrevocable prohibition!",
+    "detected": "Your activities have been detected!",
+    "exit": "⚠️ Vacate immediately to safeguard your security! ⚠️",
+    "ip_locked": "Please take cognizance, your IP address has been sequestered!",
+    "recorded": "The system has meticulously documented each of your actions!",
+    "title": "Caution",
+    "urgent": "Desist immediately, or face the ramifications!"
+  },
+  "forum": {
+    "author": "Originator",
+    "goBack": "Retrace Steps",
+    "pageTitle": "Symposium",
+    "replies": "Responses",
+    "replyPlaceholder": "Compose your response",
+    "submitReply": "Dispatch Response",
+    "viewDetails": "Inspect Details"
+  },
+  "greeting": "Salutations",
+  "help": "Centre of Assistance",
+  "login": {
+    "encrypting": "Encrypting credentials...",
+    "password": "Credential",
+    "submit": "Authenticate",
+    "title": "User Authentication",
+    "username": "Denomination",
+    "verifying": "Verifying identity..."
+  },
+  "lottery": {
+    "drawButton": "Initiate the Spin",
+    "result": "You have attained: {{prize}}",
+    "resultTitle": "Congratulations!",
+    "title": "Fortune Roulette"
+  },
+  "maintenance": {
+    "accessTitle": "Sustenance Access",
+    "currentStatus": "Current Status: System Maintenance Underway",
+    "enterPassword": "Please input the maintenance credential:",
+    "message": "The system is presently undergoing comprehensive maintenance. Kindly attempt once more at a subsequent moment.",
+    "passwordPlaceholder": "Input credential",
+    "title": "System Undergoing Sustenance"
+  },
+  "menu": {
+    "admin": "Administrator",
+    "adminChange": "Administrator2",
+    "adminProject": "Project Backend Infrastructure",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT 0.3 (AI)",
+    "chatWithMe": "Chat",
+    "contact": "Correspondence",
+    "forum": "Symposium",
+    "help": "Assistance",
+    "home": "Homestead",
+    "loggedIn": "authenticated",
+    "login": "Authenticate",
+    "lottery": "Fortune Roulette",
+    "maintenance": "Sustenance",
+    "news": "Communiqués",
+    "submitAssignment": "Submit Assignment",
+    "submitProject": "Submission of Projects"
+  },
+  "news": {
+    "goBack": "Retrace Steps",
+    "pageTitle": "Bulletins and Updates",
+    "viewDetails": "Inspect Details"
+  },
+  "post": {
+    "author": "Originator",
+    "content": "Substance",
+    "contentRequired": "Substance is obligatory",
+    "submitPost": "Disseminate Post",
+    "title": "Heading",
+    "titleRequired": "Heading is obligatory"
+  },
+  "project": {
+    "notice": {
+      "announcement": "Requirements for the practical training project:<br/>Students are mandated to accomplish a total of 2 project internships.<br/>In this project internship, the class members will be organized into 5 groups, each of which will undertake the completion of a static webpage project.<br/>The content of project development and the presentation (PPT) will be allocated among group members, with each individual required to furnish an internship report.<br/>Each student is obliged to provide the following materials:<br/>01. Project presentation PPT (may be shared within the group)<br/>02. Project code (may be shared within the group)<br/>03. Internship report (must be submitted individually)<br/>All students must submit the results of 2 projects by the 25th of October.",
+      "deadline": "Project Deadline",
+      "title": "Project Announcement"
+    },
+    "upload": {
+      "title": "Project Submission",
+      "name": "Identifier",
+      "namePlaceholder": "Please articulate your identity",
+      "projectType": "Project Classification",
+      "selectProject": "Kindly select a project category",
+      "project1": "Project One",
+      "project2": "Project Two",
+      "uploadFiles": "File Submission (restricted to ZIP, RAR, 7Z formats)",
+      "filePreview": "File Preview",
+      "submit": "Submit",
+      "uploading": "In the process of uploading..."
+    }
+  },
+  "search": {
+    "buttonText": "Initiate Search",
+    "placeholder": "Kindly input the search parameter"
+  },
+  "submission": {
+    "assignmentLabel": "Select Assignment:",
+    "assignmentPlaceholder": "Please determine an assignment classification",
+    "fileLabel": "Select Files:",
+    "filePreview": "File Preview:",
+    "loadingMessage": "Authentication of name underway, please exercise patience...",
+    "nameLabel": "Denomination (Actual Name):",
+    "namePlaceholder": "Kindly inscribe your name...",
+    "pageTitle": "Assignment Submission",
+    "submitButton": "Submit"
+  },
+  "submissionNS": {
+    "notOpenMessage": "At present, there are no assignments accessible for submission. Kindly monitor system notifications to acquire the latest information.",
+    "notOpenTitle": "Submission Yet To Commence",
+    "processingMessage": "Please demonstrate patience, your assignment is currently undergoing processing..."
+  },
+  "toggle": {
+    "assignment_status": "Assignment Condition Toggling",
+    "current_assignment_id_placeholder": "Input Existing Assignment Identifier",
+    "maintenance": "Sustenance Condition",
+    "maintenance_off": "Sustenance Condition Inactive",
+    "maintenance_on": "Sustenance Condition Active",
+    "project": "Project Submission",
+    "project_closed": "Submission of Projects Concluded",
+    "project_open": "Submission of Projects Initiated",
+    "qrcode": "QR Code Authentication",
+    "qrcode_closed": "QR Code Authentication Disabled",
+    "qrcode_open": "QR Code Authentication Enabled",
+    "submission": "Submission Condition",
+    "submission_closed": "Submission Status Restricted",
+    "submission_open": "Submission Status Available",
+    "title": "Toggling Status",
+    "update_assignment_id": "Revise Assignment Identifier"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "tasks have been successfully uploaded",
+    "title": "Upload Status Attainment"
+  },
+  "notConnected": {
+    "title": "Backend Service Currently Unreachable",
+    "message": "Attempting to establish a connection",
+    "retry": "Please remain patient"
+  },
+  "projectCheck": {
+    "title": "Project Verification",
+    "nameLabel": "Username",
+    "usernamePlaceholder": "Please enter your username",
+    "checkButton": "Verify Project",
+    "submissionStatusTitle": "Project Submission Status",
+    "assignment": "Project"
+  }
+}

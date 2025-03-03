@@ -1,0 +1,246 @@
+{
+  "QRCode": {
+    "linkVerification": "鏈接驗證",
+    "loadingText": "驗證系統 by lingyunmo",
+    "scanWarning": "使用 微信 掃描二維碼可能無法成功。\n對於 iOS 系統，可以使用相機掃碼；\n對於 安卓 系統，可以使用相機或瀏覽器掃碼。\n無法正常掃碼也可點擊鏈接驗證。",
+    "timeLeft": "有效期: {time}秒",
+    "uuid": "唯一標識符 (UUID):",
+    "verificationSuccess": "驗證成功！",
+    "verificationTitle": "為了確認您是真人，請掃描二維碼驗證"
+  },
+  "admin": {
+    "assignment1": "第一次作業狀態",
+    "assignment2": "第二次作業狀態",
+    "assignment3": "第三次作業狀態",
+    "assignment4": "第四次作業狀態",
+    "assignment5": "第五次作業狀態",
+    "enter_colorful": "進入彩色版本",
+    "name": "姓名",
+    "not_submitted": "未提交",
+    "submitted": "已提交",
+    "title": "用戶作業狀態"
+  },
+  "projectStatus": {
+    "title": "項目提交狀態",
+    "project1": "項目1",
+    "project2": "項目2"
+  },
+  "adminC": {
+    "assignment1_status": "第一次作業狀態",
+    "assignment2_status": "第二次作業狀態",
+    "assignment3_status": "第三次作業狀態",
+    "assignment4_status": "第四次作業狀態",
+    "assignment5_status": "第五次作業狀態",
+    "colorful_title": "用戶作業狀態（彩色版）",
+    "not_submitted": "未提交",
+    "submitted": "已提交"
+  },
+  "adminChange": {
+    "assignment1": "作業 1",
+    "assignment2": "作業 2",
+    "assignment3": "作業 3",
+    "assignment4": "作業 4",
+    "assignment5": "作業 5",
+    "back_to_admin": "返回管理頁面",
+    "change_title": "修改作業狀態",
+    "name": "姓名",
+    "save": "保存"
+  },
+  "announcement": {
+    "clickHint": "點擊標題以展開/折疊內容",
+    "contentSubmission": "提交內容：請僅上傳以下文件類型：<code>index.html</code>、<code>style.css</code>、<code>script.js</code>、<code>img.png</code>、<code>img.jpg</code>。選擇對應的作業類型並準確填寫名稱，這樣可以防止提交錯誤或後續問題。",
+    "deadline": "截止時間",
+    "fileSubmission": "文件提交：提交時不需要壓縮文件。服務器已預設，將自動匹配作業類型，確保順利提交。",
+    "statusCheck": "狀態檢查：提交作業後，請在“提交狀態檢查”模塊中輸入姓名，以確認作業是否已成功提交。如有任何問題或疑問，請在“論壇”模塊中發帖，我們將盡快提供支持。",
+    "title": "通知"
+  },
+  "announcementA": {
+    "part1_label": "輸入通知內容 (part1)",
+    "part2_label": "輸入作業內容 (part2)",
+    "time_label": "輸入時間",
+    "title": "通知管理",
+    "update_button": "更新通知"
+  },
+  "chat": {
+    "chatTitle": "聊天室",
+    "messagePlaceholder": "輸入訊息...",
+    "nextPage": "下一頁",
+    "nicknameButton": "確定",
+    "nicknamePlaceholder": "請輸入暱稱",
+    "nicknameReminder": "請輸入暱稱以開始聊天",
+    "page": "頁",
+    "prevPage": "上一頁",
+    "sendButton": "發送"
+  },
+  "check": {
+    "assignment": "作業",
+    "checkButton": "檢查作業提交狀態",
+    "nameLabel": "姓名:",
+    "submissionStatusTitle": "作業提交狀態:",
+    "title": "提交狀態檢查",
+    "usernamePlaceholder": "請輸入用戶名..."
+  },
+  "contact": {
+    "contribute": "貢獻",
+    "contributeDescription": "想成為貢獻者嗎？查看我的項目並提供您的支持。",
+    "description": "如有問題或建議，請通過以下方式聯繫我們：",
+    "feedback": "反饋",
+    "feedbackDescription": "歡迎提出反饋或建議。",
+    "github": "GitHub",
+    "sendEmail": "發送電子郵件",
+    "title": "聯繫我們",
+    "viewProject": "查看 Lanthanum 項目",
+    "visitGithub": "訪問 GitHub"
+  },
+  "copyright": "凌雲陌. 版權所有.",
+  "error": {
+    "back_to_login": "返回登錄",
+    "ban": "不當行為將招致永久封禁！",
+    "detected": "您的行為已被檢測到！",
+    "exit": "⚠️ 請立即退出並確保您的安全！ ⚠️",
+    "ip_locked": "請注意，您的IP地址已被鎖定！",
+    "recorded": "系統已記錄您的所有步驟！",
+    "title": "警告！",
+    "urgent": "🚨 請立即停止，否則後果自負！ 🚨"
+  },
+  "forum": {
+    "author": "發帖人",
+    "goBack": "返回上一頁",
+    "pageTitle": "論壇",
+    "replies": "回覆",
+    "replyPlaceholder": "請輸入回覆",
+    "submitReply": "提交回覆",
+    "viewDetails": "查看詳情"
+  },
+  "greeting": "你好",
+  "help": "幫助中心",
+  "login": {
+    "encrypting": "正在加密···",
+    "password": "密碼",
+    "submit": "登錄",
+    "title": "用戶登錄",
+    "username": "用戶名",
+    "verifying": "身份核驗中···"
+  },
+  "lottery": {
+    "drawButton": "轉動轉盤",
+    "result": "你贏得了: {{prize}}",
+    "resultTitle": "恭喜你！",
+    "title": "抽獎"
+  },
+  "maintenance": {
+    "accessTitle": "維護訪問",
+    "currentStatus": "當前狀態: 維護中",
+    "enterPassword": "請輸入維護密碼:",
+    "message": "當前系統正在維護，請稍後再試。",
+    "passwordPlaceholder": "請輸入密碼",
+    "title": "系統維護中"
+  },
+  "menu": {
+    "admin": "管理",
+    "adminChange": "管理2",
+    "adminProject": "專案後台",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT 0.3(AI)",
+    "chatWithMe": "聊天",
+    "contact": "聯繫我們",
+    "forum": "論壇",
+    "help": "幫助",
+    "home": "首頁",
+    "loggedIn": "已登錄",
+    "login": "登錄",
+    "lottery": "抽獎",
+    "maintenance": "維護",
+    "news": "新聞",
+    "submitAssignment": "作業提交",
+    "submitProject": "專案提交"
+  },
+  "news": {
+    "goBack": "返回上一頁",
+    "pageTitle": "新聞",
+    "viewDetails": "查看詳情"
+  },
+  "post": {
+    "author": "作者",
+    "content": "內容",
+    "contentRequired": "請輸入內容",
+    "submitPost": "提交帖子",
+    "title": "標題",
+    "titleRequired": "請輸入標題"
+  },
+  "project": {
+    "notice": {
+      "announcement": "實訓專案練習要求：<br/>同學們需完成共計2次專案實習<br/>此次專案實習開發班內成員共分為5個小組，以組為單位完成靜態頁面專案練習。<br/>專案開發內容、PPT由小組分工完成，每人需提供一份實習報告。<br/>每位同學需提供以下材料：<br/>01、專案演示PPT（組內可共用一份）<br/>02、專案代碼（組內可共用一份）<br/>03、實習報告（需個人單獨提交）<br/>請各位同學於10月25日前提交2次專案成果。",
+      "deadline": "專案截止時間",
+      "title": "項目公告"
+    },
+    "upload": {
+      "title": "項目上傳",
+      "name": "姓名",
+      "namePlaceholder": "請輸入姓名",
+      "projectType": "項目類型",
+      "selectProject": "請選擇項目類型",
+      "project1": "項目1",
+      "project2": "項目2",
+      "uploadFiles": "上傳文件（僅限ZIP、RAR、7Z格式）",
+      "filePreview": "文件預覽",
+      "submit": "提交",
+      "uploading": "上傳中..."
+    }
+  },
+  "search": {
+    "buttonText": "搜索",
+    "placeholder": "請輸入搜索內容"
+  },
+  "submission": {
+    "assignmentLabel": "選擇作業:",
+    "assignmentPlaceholder": "請選擇作業類型",
+    "fileLabel": "選擇文件:",
+    "filePreview": "文件預覽:",
+    "loadingMessage": "正在檢查姓名，請稍候...",
+    "nameLabel": "姓名（本名）:",
+    "namePlaceholder": "請輸入姓名...",
+    "pageTitle": "作業提交",
+    "submitButton": "提交"
+  },
+  "submissionNS": {
+    "notOpenMessage": "當前沒有可提交的作業，請留意系統通知。",
+    "notOpenTitle": "提交尚未開始",
+    "processingMessage": "請稍候，正在處理作業..."
+  },
+  "toggle": {
+    "assignment_status": "切換作業狀態",
+    "current_assignment_id_placeholder": "輸入當前作業號碼",
+    "maintenance": "維護狀態",
+    "maintenance_off": "維護狀態關閉",
+    "maintenance_on": "維護狀態開啟",
+    "project": "項目提交",
+    "project_closed": "專案提交關閉",
+    "project_open": "專案提交開啟",
+    "qrcode": "二維碼驗證",
+    "qrcode_closed": "二維碼驗證關閉",
+    "qrcode_open": "二維碼驗證開啟",
+    "submission": "提交狀態",
+    "submission_closed": "提交狀態關閉",
+    "submission_open": "提交狀態開啟",
+    "title": "狀態切換",
+    "update_assignment_id": "更新作業號碼"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "任務已上傳",
+    "title": "上傳完成狀況"
+  },
+  "notConnected": {
+    "title": "後端服務暫未連通",
+    "message": "正在嘗試連接中",
+    "retry": "請耐心等待"
+  },
+  "projectCheck": {
+    "title": "項目檢查",
+    "nameLabel": "用戶名",
+    "usernamePlaceholder": "請輸入您的用戶名",
+    "checkButton": "檢查項目",
+    "submissionStatusTitle": "項目提交狀態",
+    "assignment": "項目"
+  }
+}

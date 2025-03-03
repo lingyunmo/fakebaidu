@@ -1,0 +1,246 @@
+{
+  "QRCode": {
+    "linkVerification": "鏈接驗證",
+    "loadingText": "靈雲墨驗證系統",
+    "scanWarning": "以微信掃描此二維圖形，恐未必可成。\niOS 系統者，可用相機掃描；\n安卓系統者，可用相機或瀏覽器掃描。\n若掃描無果，可點擊鏈接驗證。",
+    "timeLeft": "有效時限：{time}秒",
+    "uuid": "唯一識別號 (UUID)：",
+    "verificationSuccess": "驗證成功！",
+    "verificationTitle": "為驗明爾乃真人，請掃此二維圖形"
+  },
+  "admin": {
+    "assignment1": "作業一",
+    "assignment2": "作業二",
+    "assignment3": "作業三",
+    "assignment4": "作業四",
+    "assignment5": "作業五",
+    "enter_colorful": "入多彩",
+    "name": "名",
+    "not_submitted": "未遞",
+    "submitted": "已遞",
+    "title": "用戶狀態"
+  },
+  "projectStatus": {
+    "title": "項目提交狀態",
+    "project1": "項目一",
+    "project2": "項目二"
+  },
+  "adminC": {
+    "assignment1_status": "一狀",
+    "assignment2_status": "二狀",
+    "assignment3_status": "三狀",
+    "assignment4_status": "四狀",
+    "assignment5_status": "五狀",
+    "colorful_title": "狀態多彩",
+    "not_submitted": "未",
+    "submitted": "遞"
+  },
+  "adminChange": {
+    "assignment1": "作業一",
+    "assignment2": "作業二",
+    "assignment3": "作業三",
+    "assignment4": "作業四",
+    "assignment5": "作業五",
+    "back_to_admin": "返管理頁",
+    "change_title": "改作業之狀態",
+    "name": "姓名",
+    "save": "存之"
+  },
+  "announcement": {
+    "clickHint": "點題展合",
+    "contentSubmission": "遞交內容：僅限 <code>index.html</code>、<code>style.css</code>、<code>script.js</code>、<code>img.png</code>、<code>img.jpg</code>。精選作業，具名。勿誤。",
+    "deadline": "距期",
+    "fileSubmission": "文件遞交：毋需壓縮，伺服器已配。務求順遂。",
+    "statusCheck": "狀態查驗：遞交後，查驗模塊，輸入姓名。若有疑問，於“貼吧”發帖，速復。",
+    "title": "告示"
+  },
+  "announcementA": {
+    "part1_label": "輸告(一)",
+    "part2_label": "輸作(二)",
+    "time_label": "輸時",
+    "title": "告示管",
+    "update_button": "更告"
+  },
+  "chat": {
+    "chatTitle": "會話之所",
+    "messagePlaceholder": "請表達所欲言...",
+    "nextPage": "後頁",
+    "nicknameButton": "承認",
+    "nicknamePlaceholder": "請輸入所選之名",
+    "nicknameReminder": "請賜名以啟始談話。",
+    "page": "頁",
+    "prevPage": "前頁",
+    "sendButton": "傳遞"
+  },
+  "check": {
+    "assignment": "作業",
+    "checkButton": "查驗狀態",
+    "nameLabel": "名:",
+    "submissionStatusTitle": "遞交狀態:",
+    "title": "狀態查驗",
+    "usernamePlaceholder": "請輸..."
+  },
+  "contact": {
+    "contribute": "貢獻",
+    "contributeDescription": "願為貢獻者者，查項貢之。",
+    "description": "如有疑問或建議，請聯。",
+    "feedback": "回饋",
+    "feedbackDescription": "歡迎建言。",
+    "github": "GitHub",
+    "sendEmail": "發信",
+    "title": "聯絡",
+    "viewProject": "覽項目",
+    "visitGithub": "訪GitHub"
+  },
+  "copyright": "凌云陌. 版權所有.",
+  "error": {
+    "back_to_login": "返入",
+    "ban": "不當封禁",
+    "detected": "行為偵測",
+    "exit": "⚠️ 立離 ⚠️",
+    "ip_locked": "IP封鎖",
+    "recorded": "步步記錄",
+    "title": "警告",
+    "urgent": "⚠️ 速止，否後果自負 ⚠️"
+  },
+  "forum": {
+    "author": "帖人",
+    "goBack": "返",
+    "pageTitle": "貼吧",
+    "replies": "回",
+    "replyPlaceholder": "輸回",
+    "submitReply": "回帖",
+    "viewDetails": "看詳"
+  },
+  "greeting": "汝好",
+  "help": "助",
+  "login": {
+    "encrypting": "加密中...",
+    "password": "密",
+    "submit": "入",
+    "title": "登入",
+    "username": "名",
+    "verifying": "核驗中..."
+  },
+  "lottery": {
+    "drawButton": "轉動轉盤",
+    "result": "汝獲得者：{{prize}}",
+    "resultTitle": "恭喜之至！",
+    "title": "抽籤"
+  },
+  "maintenance": {
+    "accessTitle": "維護訪",
+    "currentStatus": "維護中",
+    "enterPassword": "維護密: ",
+    "message": "系統維護，稍待。",
+    "passwordPlaceholder": "輸密",
+    "title": "維護中"
+  },
+  "menu": {
+    "admin": "後台",
+    "adminChange": "後台2",
+    "adminProject": "事業後台",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT",
+    "chatWithMe": "聊天",
+    "contact": "聯絡",
+    "forum": "貼吧",
+    "help": "助",
+    "home": "首頁",
+    "loggedIn": "已入",
+    "login": "登入",
+    "lottery": "抽籤",
+    "maintenance": "維護",
+    "news": "新聞",
+    "submitAssignment": "作業遞交",
+    "submitProject": "事業提交"
+  },
+  "news": {
+    "goBack": "返",
+    "pageTitle": "新聞",
+    "viewDetails": "看詳"
+  },
+  "post": {
+    "author": "作",
+    "content": "內",
+    "contentRequired": "內不可無",
+    "submitPost": "發帖",
+    "title": "題",
+    "titleRequired": "題不可無"
+  },
+  "project": {
+    "notice": {
+      "announcement": "實習項目之練習要求：<br/>學生需完成計2次之項目實習。<br/>此次項目實習，班內成員分為五組，各組共為靜態頁面之項目練習。<br/>項目開發內容及PPT，則由組內分工，各人皆需提供一份實習報告。<br/>每位學生需提供以下材料：<br/>01. 項目示範PPT（可共用於組內）<br/>02. 項目代碼（可共用於組內）<br/>03. 實習報告（必須個人獨立提交）<br/>諸君學生，請於十月二十五日前，提交二次項目之成果。",
+      "deadline": "項目截止日期",
+      "title": "項目公告"
+    },
+    "upload": {
+      "title": "項目上傳",
+      "name": "姓名",
+      "namePlaceholder": "請輸入姓名",
+      "projectType": "項目類型",
+      "selectProject": "請選擇項目類型",
+      "project1": "項目1",
+      "project2": "項目2",
+      "uploadFiles": "上傳文件（僅限ZIP、RAR、7Z格式）",
+      "filePreview": "文件預覽",
+      "submit": "提交",
+      "uploading": "上傳中..."
+    }
+  },
+  "search": {
+    "buttonText": "搜",
+    "placeholder": "輸搜"
+  },
+  "submission": {
+    "assignmentLabel": "選作業:",
+    "assignmentPlaceholder": "請選作業",
+    "fileLabel": "選文件:",
+    "filePreview": "預覽:",
+    "loadingMessage": "核名中...",
+    "nameLabel": "名:",
+    "namePlaceholder": "請輸名...",
+    "pageTitle": "作業遞交",
+    "submitButton": "遞交"
+  },
+  "submissionNS": {
+    "notOpenMessage": "無作業，待示。",
+    "notOpenTitle": "尚未開",
+    "processingMessage": "耐心，處理中..."
+  },
+  "toggle": {
+    "assignment_status": "作業切",
+    "current_assignment_id_placeholder": "輸當作業",
+    "maintenance": "維護",
+    "maintenance_off": "維閉",
+    "maintenance_on": "維開",
+    "project": "項目提交",
+    "project_closed": "事業提交已閉",
+    "project_open": "事業提交已開",
+    "qrcode": "码验",
+    "qrcode_closed": "码验閉",
+    "qrcode_open": "码验開",
+    "submission": "提交",
+    "submission_closed": "提閉",
+    "submission_open": "提開",
+    "title": "狀態切",
+    "update_assignment_id": "更作業"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "任務已遞",
+    "title": "遞交狀態"
+  },
+  "notConnected": {
+    "title": "后端服务暂未连通",
+    "message": "正尝试连接中",
+    "retry": "请耐心候之"
+  },
+  "projectCheck": {
+    "title": "项目检查",
+    "nameLabel": "用户名",
+    "usernamePlaceholder": "请输入尔之用户名",
+    "checkButton": "检查项目",
+    "submissionStatusTitle": "项目提交状态",
+    "assignment": "项目"
+  }
+}

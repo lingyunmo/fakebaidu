@@ -1,0 +1,246 @@
+{
+  "QRCode": {
+    "linkVerification": "链接验证",
+    "loadingText": "验证系统 by lingyunmo",
+    "scanWarning": "使用 微信 扫描二维码可能无法成功。\n对于 iOS 系统，可以使用相机扫码；\n对于 安卓 系统，可以使用相机或浏览器扫码。\n无法正常扫码也可点击链接验证。",
+    "timeLeft": "有效期: {time}秒",
+    "uuid": "唯一编号 (uuid):",
+    "verificationSuccess": "认证成功！",
+    "verificationTitle": "为了确认您是真人，请扫描二维码验证"
+  },
+  "admin": {
+    "assignment1": "第一次作业状态",
+    "assignment2": "第二次作业状态",
+    "assignment3": "第三次作业状态",
+    "assignment4": "第四次作业状态",
+    "assignment5": "第五次作业状态",
+    "enter_colorful": "进入多彩版",
+    "name": "姓名",
+    "not_submitted": "未提交",
+    "submitted": "已提交",
+    "title": "用户作业状态"
+  },
+  "projectStatus": {
+    "title": "项目提交状态",
+    "project1": "项目1",
+    "project2": "项目2"
+  },
+  "adminC": {
+    "assignment1_status": "第一次作业状态",
+    "assignment2_status": "第二次作业状态",
+    "assignment3_status": "第三次作业状态",
+    "assignment4_status": "第四次作业状态",
+    "assignment5_status": "第五次作业状态",
+    "colorful_title": "用户作业状态(多彩版)",
+    "not_submitted": "未提交",
+    "submitted": "已提交"
+  },
+  "adminChange": {
+    "assignment1": "作业 1",
+    "assignment2": "作业 2",
+    "assignment3": "作业 3",
+    "assignment4": "作业 4",
+    "assignment5": "作业 5",
+    "back_to_admin": "返回管理页面",
+    "change_title": "修改作业状态",
+    "name": "姓名",
+    "save": "保存"
+  },
+  "announcement": {
+    "clickHint": "点击标题以展开/折叠内容",
+    "contentSubmission": "提交内容：请确保您只上传以下文件类型：<code>index.html</code>、<code>style.css</code>、<code>script.js</code>、<code>img.png</code>、<code>img.jpg</code>。务必选择与作业相对应的作业类型，并准确填写您的姓名。这将有助于避免提交错误和后续问题。",
+    "deadline": "距离截止时间",
+    "fileSubmission": "文件提交：请注意，提交时无需压缩文件。服务器已经预先配置好，以便于自动匹配作业类型，确保您的提交顺利处理。",
+    "statusCheck": "状态检查：作业提交后，请前往“提交状态检查”模块，输入您的姓名以核实作业是否成功提交。如果发现任何问题或疑问，请在“贴吧”模块发帖，我们会尽快为您提供帮助。",
+    "title": "公告"
+  },
+  "announcementA": {
+    "part1_label": "输入公告内容 (part1)",
+    "part2_label": "输入作业内容 (part2)",
+    "time_label": "输入时间",
+    "title": "公告管理",
+    "update_button": "更新公告"
+  },
+  "chat": {
+    "chatTitle": "聊天室",
+    "messagePlaceholder": "输入消息...",
+    "nextPage": "下一页",
+    "nicknameButton": "确定",
+    "nicknamePlaceholder": "请输入昵称",
+    "nicknameReminder": "输入昵称即可开始聊天",
+    "page": "页",
+    "prevPage": "上一页",
+    "sendButton": "发送"
+  },
+  "check": {
+    "assignment": "作业",
+    "checkButton": "检查作业提交状态",
+    "nameLabel": "名字:",
+    "submissionStatusTitle": "作业提交状态:",
+    "title": "提交状态检查",
+    "usernamePlaceholder": "请输入用户名..."
+  },
+  "contact": {
+    "contribute": "贡献",
+    "contributeDescription": "想要成为贡献者吗？请查看我的项目并提交贡献。",
+    "description": "如果您有任何问题或建议，请通过以下方式与我联系：",
+    "feedback": "反馈",
+    "feedbackDescription": "我们欢迎您的反馈和建议。",
+    "github": "GitHub",
+    "sendEmail": "发送邮件",
+    "title": "联系我",
+    "viewProject": "查看Lanthanum项目",
+    "visitGithub": "访问我的GitHub"
+  },
+  "copyright": "凌云陌. 版权所有.",
+  "error": {
+    "back_to_login": "返回登录",
+    "ban": "不当行为将导致永久封禁！",
+    "detected": "您的行为已被检测到！",
+    "exit": "⚠️ 立刻退出，确保您的安全！ ⚠️",
+    "ip_locked": "请注意，您的IP地址已被锁定！",
+    "recorded": "系统已记录您的每一步！",
+    "title": "警告！",
+    "urgent": "🚨 立即停止，否则后果自负！ 🚨"
+  },
+  "forum": {
+    "author": "发帖人",
+    "goBack": "返回上一页",
+    "pageTitle": "贴吧",
+    "replies": "回复",
+    "replyPlaceholder": "输入你的回复",
+    "submitReply": "提交回复",
+    "viewDetails": "查看详情"
+  },
+  "greeting": "你好",
+  "help": "帮助中心",
+  "login": {
+    "encrypting": "正在加密···",
+    "password": "密码",
+    "submit": "登录",
+    "title": "用户登录",
+    "username": "用户名",
+    "verifying": "身份核验中···"
+  },
+  "lottery": {
+    "drawButton": "转动转盘",
+    "result": "你赢得了: {{prize}}",
+    "resultTitle": "恭喜你！",
+    "title": "抽奖"
+  },
+  "maintenance": {
+    "accessTitle": "维护访问",
+    "currentStatus": "当前状态: 维护中",
+    "enterPassword": "请输入维护密码:",
+    "message": "我们正在进行系统维护。请稍后再试。",
+    "passwordPlaceholder": "请输入密码",
+    "title": "维护中"
+  },
+  "menu": {
+    "admin": "后台",
+    "adminChange": "后台2",
+    "adminProject": "项目后台",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT 0.3(AI)",
+    "chatWithMe": "聊天",
+    "contact": "联系",
+    "forum": "贴吧",
+    "help": "帮助",
+    "home": "首页",
+    "loggedIn": "已登录",
+    "login": "登录",
+    "lottery": "抽奖",
+    "maintenance": "维护",
+    "news": "新闻",
+    "submitAssignment": "作业提交",
+    "submitProject": "项目提交"
+  },
+  "news": {
+    "goBack": "返回上一页",
+    "pageTitle": "新闻资讯",
+    "viewDetails": "查看详情"
+  },
+  "post": {
+    "author": "作者",
+    "content": "内容",
+    "contentRequired": "内容不能为空",
+    "submitPost": "发布帖子",
+    "title": "标题",
+    "titleRequired": "标题不能为空"
+  },
+  "project": {
+    "notice": {
+      "announcement": "实训项目练习要求：<br/>同学们需完成共计2次项目实习<br/>此次项目实习开发班内成员共分为5个小组，以组为单位完成静态页面项目练习。<br/>项目开发内容、PPT由小组分工完成，每人需提供一份实习报告。<br/>每位同学需提供以下材料：<br/>01、项目演示PPT（组内可共用一份）<br/>02、项目代码（组内可共用一份）<br/>03、实习报告（需个人单独提交）<br/>请各位同学于10月25日前提交2次项目成果。",
+      "deadline": "项目截止时间",
+      "title": "项目公告"
+    },
+    "upload": {
+      "title": "项目上传",
+      "name": "姓名",
+      "namePlaceholder": "请输入姓名",
+      "projectType": "项目类型",
+      "selectProject": "请选择项目类型",
+      "project1": "项目1",
+      "project2": "项目2",
+      "uploadFiles": "上传文件（仅限ZIP、RAR、7Z格式）",
+      "filePreview": "文件预览",
+      "submit": "提交",
+      "uploading": "上传中..."
+    }
+  },
+  "search": {
+    "buttonText": "搜索",
+    "placeholder": "请输入搜索内容"
+  },
+  "submission": {
+    "assignmentLabel": "选择作业:",
+    "assignmentPlaceholder": "请选择作业类型",
+    "fileLabel": "选择文件:",
+    "filePreview": "预览文件:",
+    "loadingMessage": "姓名验证中，请稍候...",
+    "nameLabel": "名字（真实姓名）:",
+    "namePlaceholder": "请输入名字...",
+    "pageTitle": "提交作业",
+    "submitButton": "提交"
+  },
+  "submissionNS": {
+    "notOpenMessage": "当前没有作业可供提交。请注意查看系统通知，获取最新信息。",
+    "notOpenTitle": "提交尚未开始",
+    "processingMessage": "请耐心等待，您的作业正在处理中..."
+  },
+  "toggle": {
+    "assignment_status": "作业状态切换",
+    "current_assignment_id_placeholder": "输入当前作业编号",
+    "maintenance": "维护状态",
+    "maintenance_off": "维护状态关闭",
+    "maintenance_on": "维护状态开启",
+    "project": "项目提交",
+    "project_closed": "项目提交关闭",
+    "project_open": "项目提交开启",
+    "qrcode": "二维码验证",
+    "qrcode_closed": "二维码验证关闭",
+    "qrcode_open": "二维码验证开启",
+    "submission": "提交状态",
+    "submission_closed": "提交状态关闭",
+    "submission_open": "提交状态开启",
+    "title": "状态切换",
+    "update_assignment_id": "更新作业编号"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "任务已上传",
+    "title": "上传状态完成情况"
+  },
+  "notConnected": {
+    "title": "后端服务暂未连通",
+    "message": "正在尝试连接中",
+    "retry": "请耐心等待"
+  },
+  "projectCheck": {
+    "title": "项目检查",
+    "nameLabel": "用户名",
+    "usernamePlaceholder": "请输入您的用户名",
+    "checkButton": "检查项目",
+    "submissionStatusTitle": "项目提交状态",
+    "assignment": "项目"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "QRCode": {
+    "linkVerification": "Link verification",
+    "loadingText": "Verification system by lingyunmo",
+    "scanWarning": "Using WeChat to scan the QR code may not work successfully.\nFor iOS, you can use the camera to scan;\nFor Android, you can use the camera or browser to scan.\nIf you can't scan the code properly, you can also click the link to verify.",
+    "timeLeft": "Time remaining: {time} seconds",
+    "uuid": "Unique ID (uuid):",
+    "verificationSuccess": "Verification successful!",
+    "verificationTitle": "To verify you are human, please scan the QR code"
+  },
+  "admin": {
+    "assignment1": "First Assignment Status",
+    "assignment2": "Second Assignment Status",
+    "assignment3": "Third Assignment Status",
+    "assignment4": "Fourth Assignment Status",
+    "assignment5": "Fifth Assignment Status",
+    "enter_colorful": "Enter Colorful Version",
+    "name": "Name",
+    "not_submitted": "Not Submitted",
+    "submitted": "Submitted",
+    "title": "User Assignment Status"
+  },
+  "adminC": {
+    "assignment1_status": "First Assignment Status",
+    "assignment2_status": "Second Assignment Status",
+    "assignment3_status": "Third Assignment Status",
+    "assignment4_status": "Fourth Assignment Status",
+    "assignment5_status": "Fifth Assignment Status",
+    "colorful_title": "User Assignment Status (Colorful Version)",
+    "not_submitted": "Not Submitted",
+    "submitted": "Submitted"
+  },
+  "adminChange": {
+    "assignment1": "Assignment 1",
+    "assignment2": "Assignment 2",
+    "assignment3": "Assignment 3",
+    "assignment4": "Assignment 4",
+    "assignment5": "Assignment 5",
+    "back_to_admin": "Back to Admin Page",
+    "change_title": "Change Assignment Status",
+    "name": "Name",
+    "save": "Save"
+  },
+  "announcement": {
+    "clickHint": "Click the title to expand/collapse content",
+    "contentSubmission": "Content Submission: Please ensure you only upload the following file types: <code>index.html</code>, <code>style.css</code>, <code>script.js</code>, <code>img.png</code>, <code>img.jpg</code>. Be sure to select the correct assignment type and fill in your name accurately. This will help avoid submission errors and subsequent issues.",
+    "deadline": "Time remaining until deadline",
+    "fileSubmission": "File Submission: Please note that you do not need to compress files upon submission. The server is pre-configured for automatic matching of assignment types to ensure your submission is processed smoothly.",
+    "statusCheck": "Status Check: After submission, please go to the 'Submission Status Check' module and enter your name to verify if your assignment has been submitted successfully. If you encounter any issues or questions, please post in the 'Forum' module, and we will assist you as soon as possible.",
+    "title": "Announcement"
+  },
+  "announcementA": {
+    "part1_label": "Enter Announcement Content (Part 1)",
+    "part2_label": "Enter Assignment Content (Part 2)",
+    "time_label": "Enter Time",
+    "title": "Announcement Management",
+    "update_button": "Update Announcement"
+  },
+  "chat": {
+    "chatTitle": "Chat Room",
+    "messagePlaceholder": "Type a message...",
+    "nextPage": "Next Page",
+    "nicknameButton": "Confirm",
+    "nicknamePlaceholder": "Enter your nickname",
+    "nicknameReminder": "Please enter a nickname to start chatting",
+    "page": "Page",
+    "prevPage": "Previous Page",
+    "sendButton": "Send"
+  },
+  "check": {
+    "assignment": "Assignment",
+    "checkButton": "Check Submission Status",
+    "nameLabel": "Name:",
+    "submissionStatusTitle": "Submission Status:",
+    "title": "Check Submission Status",
+    "usernamePlaceholder": "Enter your username..."
+  },
+  "contact": {
+    "contribute": "Contribute",
+    "contributeDescription": "Want to be a contributor? Check out my projects and submit your contributions.",
+    "description": "If you have any questions or suggestions, please contact me through the following methods:",
+    "feedback": "Feedback",
+    "feedbackDescription": "We welcome your feedback and suggestions.",
+    "github": "GitHub",
+    "sendEmail": "Send Email",
+    "title": "Contact Me",
+    "viewProject": "View Lanthanum Project",
+    "visitGithub": "Visit my GitHub"
+  },
+  "copyright": "Lingyunmo. All rights reserved.",
+  "error": {
+    "back_to_login": "Back to Login",
+    "ban": "Misconduct will result in a permanent ban!",
+    "detected": "Your actions have been detected!",
+    "exit": "⚠️ Exit immediately to ensure your safety! ⚠️",
+    "ip_locked": "Please note, your IP address has been locked!",
+    "recorded": "The system has recorded your every step!",
+    "title": "Warning",
+    "urgent": "Immediately stop, or bear the consequences!"
+  },
+  "forum": {
+    "author": "Author",
+    "goBack": "Go Back",
+    "pageTitle": "Forum",
+    "replies": "Replies",
+    "replyPlaceholder": "Enter your reply",
+    "submitReply": "Submit Reply",
+    "viewDetails": "View Details"
+  },
+  "greeting": "Hello",
+  "help": "Help Center",
+  "login": {
+    "encrypting": "Encrypting...",
+    "password": "Password",
+    "submit": "Login",
+    "title": "User Login",
+    "username": "Username",
+    "verifying": "Verifying identity..."
+  },
+  "lottery": {
+    "drawButton": "Spin the Wheel",
+    "result": "You won: {{prize}}",
+    "resultTitle": "Congratulations!",
+    "title": "Lottery Draw"
+  },
+  "maintenance": {
+    "accessTitle": "Maintenance Access",
+    "currentStatus": "Current Status: Under Maintenance",
+    "enterPassword": "Please enter the maintenance password:",
+    "message": "We are currently undergoing system maintenance. Please try again later.",
+    "passwordPlaceholder": "Enter password",
+    "title": "Under Maintenance"
+  },
+  "menu": {
+    "admin": "Admin",
+    "adminChange": "Admin2",
+    "adminProject": "Project Backend",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT 0.3 (AI)",
+    "chatWithMe": "Chat",
+    "contact": "Contact",
+    "forum": "Forum",
+    "help": "Help",
+    "home": "Home",
+    "loggedIn": "logged in",
+    "login": "Login",
+    "lottery": "Lottery Draw",
+    "maintenance": "Maintenance",
+    "news": "News",
+    "submitAssignment": "Submit Assignment",
+    "submitProject": "Project Submission"
+  },
+  "news": {
+    "goBack": "Go Back",
+    "pageTitle": "News Information",
+    "viewDetails": "View Details"
+  },
+  "post": {
+    "author": "Author",
+    "content": "Content",
+    "contentRequired": "Content cannot be empty",
+    "submitPost": "Publish Post",
+    "title": "Title",
+    "titleRequired": "Title cannot be empty"
+  },
+  "project": {
+    "notice": {
+      "announcement": "Training project practice requirements:<br/>Students are required to complete a total of 2 project internships.<br/>This project internship will divide the class members into 5 groups, and each group will complete the static page project practice.<br/>Project development content and PPT will be divided among group members, and each person must provide an internship report.<br/>Each student must provide the following materials:<br/>01. Project demonstration PPT (can be shared within the group)<br/>02. Project code (can be shared within the group)<br/>03. Internship report (must be submitted individually)<br/>All students should submit the results of 2 projects by October 25.",
+      "deadline": "Project Deadline",
+      "title": "Project Announcement"
+    },
+    "upload": {
+      "title": "Project Upload",
+      "name": "Name",
+      "namePlaceholder": "Please enter your name",
+      "projectType": "Project Type",
+      "selectProject": "Please select a project type",
+      "project1": "Project 1",
+      "project2": "Project 2",
+      "uploadFiles": "Upload Files (only ZIP, RAR, 7Z formats)",
+      "filePreview": "File Preview",
+      "submit": "Submit",
+      "uploading": "Uploading..."
+    }
+  },
+  "search": {
+    "buttonText": "Search",
+    "placeholder": "Please enter search content"
+  },
+  "submission": {
+    "assignmentLabel": "Select Assignment:",
+    "assignmentPlaceholder": "Please select an assignment type",
+    "fileLabel": "Select Files:",
+    "filePreview": "Preview Files:",
+    "loadingMessage": "Name verification in progress, please wait...",
+    "nameLabel": "Name (Real Name):",
+    "namePlaceholder": "Please enter your name...",
+    "pageTitle": "Submit Assignment",
+    "submitButton": "Submit"
+  },
+  "submissionNS": {
+    "notOpenMessage": "Currently, there are no assignments available for submission. Please keep an eye on system notifications for the latest information.",
+    "notOpenTitle": "Submission Not Started",
+    "processingMessage": "Please be patient, your assignment is being processed..."
+  },
+  "toggle": {
+    "assignment_status": "Assignment Status Toggle",
+    "current_assignment_id_placeholder": "Enter Current Assignment ID",
+    "maintenance": "Maintenance Status",
+    "maintenance_off": "Maintenance Status Off",
+    "maintenance_on": "Maintenance Status On",
+    "project": "Project Submission",
+    "project_closed": "Project Submission Closed",
+    "project_open": "Project Submission Opened",
+    "qrcode": "QR code",
+    "qrcode_closed": "QR closed",
+    "qrcode_open": "QR open",
+    "submission": "Submission Status",
+    "submission_closed": "Submission Status Closed",
+    "submission_open": "Submission Status Open",
+    "title": "Status Toggle",
+    "update_assignment_id": "Update Assignment ID"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "tasks uploaded",
+    "title": "Upload Status Completion"
+  },
+  "notConnected": {
+    "title": "Backend Service Not Connected",
+    "message": "Trying to connect",
+    "retry": "Please wait"
+  },
+  "projectCheck": {
+    "title": "Project Check",
+    "nameLabel": "User Name",
+    "usernamePlaceholder": "Enter your user name",
+    "checkButton": "Check Project",
+    "submissionStatusTitle": "Project Submission Status",
+    "assignment": "Project"
+  }
+}

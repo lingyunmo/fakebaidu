@@ -1,0 +1,246 @@
+{
+  "QRCode": {
+    "linkVerification": "Verificación por enlace",
+    "loadingText": "Sistema de verificación por lingyunmo",
+    "scanWarning": "El uso de WeChat para escanear el código QR puede no tener éxito.\nPara iOS, puede usar la cámara para escanear;\nPara Android, puede usar la cámara o el navegador.\nSi no puede escanear el código, también puede hacer clic en el enlace para verificar.",
+    "timeLeft": "Tiempo restante: {time} segundos",
+    "uuid": "Identificador único (UUID):",
+    "verificationSuccess": "¡Verificación exitosa!",
+    "verificationTitle": "Para verificar que no eres un robot, escanea el código QR"
+  },
+  "admin": {
+    "assignment1": "Estado de la primera tarea",
+    "assignment2": "Estado de la segunda tarea",
+    "assignment3": "Estado de la tercera tarea",
+    "assignment4": "Estado de la cuarta tarea",
+    "assignment5": "Estado de la quinta tarea",
+    "enter_colorful": "Entrar en modo colorido",
+    "name": "Nombre",
+    "not_submitted": "No enviado",
+    "submitted": "Enviado",
+    "title": "Estado de las tareas de los usuarios"
+  },
+  "projectStatus": {
+    "title": "Estado de envío del proyecto",
+    "project1": "Proyecto 1",
+    "project2": "Proyecto 2"
+  },
+  "adminC": {
+    "assignment1_status": "Estado de la primera tarea",
+    "assignment2_status": "Estado de la segunda tarea",
+    "assignment3_status": "Estado de la tercera tarea",
+    "assignment4_status": "Estado de la cuarta tarea",
+    "assignment5_status": "Estado de la quinta tarea",
+    "colorful_title": "Estado de las tareas de los usuarios (versión colorida)",
+    "not_submitted": "No enviado",
+    "submitted": "Enviado"
+  },
+  "adminChange": {
+    "assignment1": "Tarea 1",
+    "assignment2": "Tarea 2",
+    "assignment3": "Tarea 3",
+    "assignment4": "Tarea 4",
+    "assignment5": "Tarea 5",
+    "back_to_admin": "Volver a la página de administración",
+    "change_title": "Cambiar estado de la tarea",
+    "name": "Nombre",
+    "save": "Guardar"
+  },
+  "announcement": {
+    "clickHint": "Haz clic en el título para expandir/colapsar el contenido",
+    "contentSubmission": "Envío de contenido: Asegúrese de cargar solo los siguientes tipos de archivos: <code>index.html</code>, <code>style.css</code>, <code>script.js</code>, <code>img.png</code>, <code>img.jpg</code>. Seleccione el tipo de tarea correspondiente y complete correctamente su nombre. Esto ayudará a evitar errores de envío y problemas posteriores.",
+    "deadline": "Fecha límite",
+    "fileSubmission": "Envío de archivos: Tenga en cuenta que no es necesario comprimir los archivos al enviarlos. El servidor está configurado para hacer coincidir automáticamente el tipo de tarea, asegurando que su envío sea procesado correctamente.",
+    "statusCheck": "Verificación de estado: Después de enviar la tarea, visite el módulo 'Verificación del estado del envío' e ingrese su nombre para comprobar si la tarea se ha enviado correctamente. Si tiene algún problema o pregunta, publique en el foro y le ayudaremos lo antes posible.",
+    "title": "Anuncio"
+  },
+  "announcementA": {
+    "part1_label": "Ingrese el contenido del anuncio (parte 1)",
+    "part2_label": "Ingrese el contenido de la tarea (parte 2)",
+    "time_label": "Ingrese la hora",
+    "title": "Gestión de anuncios",
+    "update_button": "Actualizar anuncio"
+  },
+  "chat": {
+    "chatTitle": "Sala de Chat",
+    "messagePlaceholder": "Escriba su mensaje...",
+    "nextPage": "Página Siguiente",
+    "nicknameButton": "Confirmar",
+    "nicknamePlaceholder": "Ingrese su apodo",
+    "nicknameReminder": "Por favor, introduzca un apodo para comenzar la conversación.",
+    "page": "Página",
+    "prevPage": "Página Anterior",
+    "sendButton": "Enviar"
+  },
+  "check": {
+    "assignment": "Tarea",
+    "checkButton": "Verificar el estado del envío de la tarea",
+    "nameLabel": "Nombre:",
+    "submissionStatusTitle": "Estado del envío de la tarea:",
+    "title": "Verificación del estado del envío",
+    "usernamePlaceholder": "Ingrese el nombre de usuario..."
+  },
+  "contact": {
+    "contribute": "Contribuir",
+    "contributeDescription": "¿Quieres ser contribuidor? Revisa mis proyectos y envía tus contribuciones.",
+    "description": "Si tienes preguntas o sugerencias, contáctame a través de los siguientes medios:",
+    "feedback": "Comentarios",
+    "feedbackDescription": "Agradecemos tus comentarios y sugerencias.",
+    "github": "GitHub",
+    "sendEmail": "Enviar correo electrónico",
+    "title": "Contáctame",
+    "viewProject": "Ver el proyecto Lanthanum",
+    "visitGithub": "Visita mi GitHub"
+  },
+  "copyright": "凌云陌. Todos los derechos reservados.",
+  "error": {
+    "back_to_login": "Volver al inicio de sesión",
+    "ban": "¡El comportamiento inapropiado resultará en una prohibición permanente!",
+    "detected": "¡Tu comportamiento ha sido detectado!",
+    "exit": "⚠️ ¡Sal inmediatamente, por tu seguridad! ⚠️",
+    "ip_locked": "¡Por favor, ten en cuenta que tu dirección IP ha sido bloqueada!",
+    "recorded": "¡Cada paso de tu actividad ha sido registrado por el sistema!",
+    "title": "¡Advertencia!",
+    "urgent": "🚨 ¡Detente inmediatamente o enfrenta las consecuencias! 🚨"
+  },
+  "forum": {
+    "author": "Autor",
+    "goBack": "Volver a la página anterior",
+    "pageTitle": "Foro",
+    "replies": "Respuestas",
+    "replyPlaceholder": "Ingrese su respuesta",
+    "submitReply": "Enviar respuesta",
+    "viewDetails": "Ver detalles"
+  },
+  "greeting": "Hola",
+  "help": "Centro de ayuda",
+  "login": {
+    "encrypting": "Cifrando...",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión",
+    "title": "Inicio de sesión de usuario",
+    "username": "Nombre de usuario",
+    "verifying": "Verificando identidad..."
+  },
+  "lottery": {
+    "drawButton": "Gira la Rueda",
+    "result": "Has ganado: {{prize}}",
+    "resultTitle": "¡Felicidades!",
+    "title": "Sorteo"
+  },
+  "maintenance": {
+    "accessTitle": "Acceso en mantenimiento",
+    "currentStatus": "Estado actual: En mantenimiento",
+    "enterPassword": "Ingrese la contraseña de mantenimiento:",
+    "message": "Estamos llevando a cabo el mantenimiento del sistema. Inténtelo de nuevo más tarde.",
+    "passwordPlaceholder": "Ingrese la contraseña",
+    "title": "En mantenimiento"
+  },
+  "menu": {
+    "admin": "Administración",
+    "adminChange": "Administración2",
+    "adminProject": "Backend del proyecto",
+    "bilibili": "bilibili",
+    "chatGPT": "ChatGPT 0.3 (IA)",
+    "chatWithMe": "charlar",
+    "contact": "Contacto",
+    "forum": "Foro",
+    "help": "Ayuda",
+    "home": "Inicio",
+    "loggedIn": "Conectado",
+    "login": "Iniciar sesión",
+    "lottery": "Sorteo",
+    "maintenance": "Mantenimiento",
+    "news": "Noticias",
+    "submitAssignment": "Enviar tarea",
+    "submitProject": "Presentación del proyecto"
+  },
+  "news": {
+    "goBack": "Volver a la página anterior",
+    "pageTitle": "Noticias",
+    "viewDetails": "Ver detalles"
+  },
+  "post": {
+    "author": "Autor",
+    "content": "Contenido",
+    "contentRequired": "El contenido no puede estar vacío",
+    "submitPost": "Publicar mensaje",
+    "title": "Título",
+    "titleRequired": "El título no puede estar vacío"
+  },
+  "project": {
+    "notice": {
+      "announcement": "Requisitos para el proyecto de capacitación:<br/>Los estudiantes deben completar un total de 2 prácticas de proyecto.<br/>Esta práctica de proyecto dividirá a los miembros de la clase en 5 grupos, y cada grupo completará la práctica del proyecto de página estática.<br/>El contenido del desarrollo del proyecto y la presentación (PPT) se dividirán entre los miembros del grupo, y cada persona debe proporcionar un informe de prácticas.<br/>Cada estudiante debe proporcionar los siguientes materiales:<br/>01. PPT de demostración del proyecto (se puede compartir dentro del grupo)<br/>02. Código del proyecto (se puede compartir dentro del grupo)<br/>03. Informe de prácticas (debe ser presentado individualmente)<br/>Todos los estudiantes deben presentar los resultados de 2 proyectos antes del 25 de octubre.",
+      "deadline": "Fecha límite del proyecto",
+      "title": "Anuncio del Proyecto"
+    },
+    "upload": {
+      "title": "Carga de Proyecto",
+      "name": "Nombre",
+      "namePlaceholder": "Por favor, ingrese su nombre",
+      "projectType": "Tipo de Proyecto",
+      "selectProject": "Por favor, seleccione un tipo de proyecto",
+      "project1": "Proyecto 1",
+      "project2": "Proyecto 2",
+      "uploadFiles": "Subir Archivos (solo formatos ZIP, RAR, 7Z)",
+      "filePreview": "Vista Previa de Archivos",
+      "submit": "Enviar",
+      "uploading": "Cargando..."
+    }
+  },
+  "search": {
+    "buttonText": "Buscar",
+    "placeholder": "Ingrese el contenido para buscar"
+  },
+  "submission": {
+    "assignmentLabel": "Elija la tarea:",
+    "assignmentPlaceholder": "Elija el tipo de tarea",
+    "fileLabel": "Elija el archivo:",
+    "filePreview": "Vista previa del archivo:",
+    "loadingMessage": "Verificando el nombre, por favor espere...",
+    "nameLabel": "Nombre (nombre real):",
+    "namePlaceholder": "Ingrese su nombre...",
+    "pageTitle": "Envío de tarea",
+    "submitButton": "Enviar"
+  },
+  "submissionNS": {
+    "notOpenMessage": "No hay tareas disponibles para enviar por el momento. Por favor, esté atento a las notificaciones del sistema para obtener la información más reciente.",
+    "notOpenTitle": "Envío no abierto",
+    "processingMessage": "Por favor, espere, su tarea está siendo procesada..."
+  },
+  "toggle": {
+    "assignment_status": "Cambio de estado de la tarea",
+    "current_assignment_id_placeholder": "Ingrese el número de la tarea actual",
+    "maintenance": "Estado de mantenimiento",
+    "maintenance_off": "Mantenimiento desactivado",
+    "maintenance_on": "Mantenimiento activado",
+    "project": "Presentación del Proyecto",
+    "project_closed": "Cierre de la presentación del proyecto",
+    "project_open": "Apertura de la presentación del proyecto",
+    "qrcode": "Verificación QR",
+    "qrcode_closed": "Desactivación de la verificación QR",
+    "qrcode_open": "Activación de la verificación QR",
+    "submission": "Estado de envío",
+    "submission_closed": "Envío cerrado",
+    "submission_open": "Envío abierto",
+    "title": "Cambio de estado",
+    "update_assignment_id": "Actualizar número de la tarea"
+  },
+  "uploadStatus": {
+    "tasksUploaded": "Tareas cargadas",
+    "title": "Estado de avance del envío"
+  },
+  "notConnected": {
+    "title": "Servicio de backend no conectado",
+    "message": "Intentando conectar",
+    "retry": "Por favor, espera"
+  },
+  "projectCheck": {
+    "title": "Verificación de Proyecto",
+    "nameLabel": "Nombre de Usuario",
+    "usernamePlaceholder": "Introduce tu nombre de usuario",
+    "checkButton": "Verificar Proyecto",
+    "submissionStatusTitle": "Estado de la Presentación del Proyecto",
+    "assignment": "Proyecto"
+  }
+}
